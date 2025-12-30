@@ -1,0 +1,34 @@
+{
+    "books": {
+        "1234": {
+            "title": "indian",
+            "author": "tarun"
+        },
+        "1": {
+            "title": "To kill mocking bird",
+            "author": "harper lee"
+        },
+        "2": {
+            "title": "1984",
+            "author": "george orwell"
+        },
+        "3": {
+            "title": "The alchemist",
+            "author": "paulo coelho"
+        },
+        "4": {
+            "title": "Pride and prejudice",
+            "author": "jane austen"
+        },
+        "5": {
+            "title": "harry potter",
+            "author": "j.k rowling"
+        }
+    },
+    "issued": {
+        "123": {
+            "student": "jbdsjf",
+            "date": "2025-12-28"
+        }
+    }
+}
